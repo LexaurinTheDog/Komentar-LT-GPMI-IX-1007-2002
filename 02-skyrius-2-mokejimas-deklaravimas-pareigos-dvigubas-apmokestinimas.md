@@ -112,7 +112,7 @@ Antrasis sakinys deleguoja verslo liudijimo išdavimo tvarką Vyriausybei. Nenuo
 >
 > 1) nepageidauja pasinaudoti teise iš pajamų atimti šio Įstatymo 21 straipsnio 1 dalyje nurodytas išlaidas ir
 >
-> 2) per atitinkamą mokestinį laikotarpį gavo tik A klasei priskiriamų su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių pajamų, kuriam neatsiranda pareiga perskaičiuoti mokėtiną pajamų mokestį atsižvelgiant į šio Įstatymo 6 straipsnio 11 ir 12 dalių nuostatas ir kuriam pritaikytas NPD neturi būti perskaičiuotas šio Įstatymo 20 straipsnyje nustatyta tvarka. Toks gyventojas turi teisę neteikti metinės pajamų mokesčio deklaracijos ir tais atvejais, kai gauna šio punkto pirmajame sakinyje nenurodytų pajamų, jeigu šios pajamos įtrauktos į centrinio mokesčio administratoriaus nustatytą neapmokestinamųjų pajamų, kurių gavus deklaracija gali būti neteikiama, sąrašą.
+> 2) per atitinkamą mokestinį laikotarpį gavo tik A klasei priskiriamų su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių pajamų, kuriam neatsiranda pareiga perskaičiuoti mokėtiną pajamų mokestį atsižvelgiant į šio Įstatymo 6 straipsnio 1¹ ir 1² dalių nuostatas ir kuriam pritaikytas NPD neturi būti perskaičiuotas šio Įstatymo 20 straipsnyje nustatyta tvarka. Toks gyventojas turi teisę neteikti metinės pajamų mokesčio deklaracijos ir tais atvejais, kai gauna šio punkto pirmajame sakinyje nenurodytų pajamų, jeigu šios pajamos įtrauktos į centrinio mokesčio administratoriaus nustatytą neapmokestinamųjų pajamų, kurių gavus deklaracija gali būti neteikiama, sąrašą.
 >
 > 3. Gyventojas, kuris mokestiniu laikotarpiu buvo įsigijęs verslo liudijimą ar įregistravęs individualią veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją net tuo atveju, kai individualios veiklos pajamų negavo. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas Lietuvos Respublikos rinkimų kodekso 110 straipsnio 4 ir 6 dalyse nustatytais atvejais, ir gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti piniginę socialinę paramą ar paramą būstui įsigyti ar išsinuomoti, taip pat išskyrus atskaitinę gyventojo turto deklaraciją teikiančius Gyventojų turto deklaravimo įstatymo 2 straipsnio 1 dalies 26 punkte nurodytus asmenis, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisydamas šio straipsnio 2 dalyje nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas Rinkimų kodekso 110 straipsnio 4 ir 6 dalyse nustatytais atvejais, privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už paskutinį praėjusį mokestinį laikotarpį, kai auką jis teikia po einamojo mokestinio laikotarpio gegužės 1 dienos, arba už užpraėjusį mokestinį laikotarpį, kai auką jis teikia iki einamojo mokestinio laikotarpio gegužės 1 dienos, laikydamasis Rinkimų kodekso 110 straipsnio 4 ir 6 dalyse nustatyto deklaracijos pateikimo termino, jeigu metinės pajamų mokesčio deklaracijos už minėtus mokestinius laikotarpius nebuvo pateikęs šio straipsnio 1 dalyje nustatyta tvarka. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį laikydamasis gyventojo turto deklaracijos pateikimo terminų.
 >
@@ -130,7 +130,7 @@ Antrasis sakinys deleguoja verslo liudijimo išdavimo tvarką Vyriausybei. Nenuo
 >
 > 1) per praėjusį mokestinį laikotarpį Lietuvos Respublikoje gavo A ir (ar) B klasėms priskiriamų pajamų, nenurodytų šio Įstatymo 30 straipsnyje, ir
 >
-> 2) jam atsiranda pareiga perskaičiuoti mokėtiną pajamų mokestį atsižvelgiant į šio Įstatymo 6 straipsnio 11 ir 12 dalių nuostatas.
+> 2) jam atsiranda pareiga perskaičiuoti mokėtiną pajamų mokestį atsižvelgiant į šio Įstatymo 6 straipsnio 1¹ ir 1² dalių nuostatas.
 
 *e-TAR redakcinė pastaba:* [2 d. 1 p.] Straipsnio punkto pakeitimai: Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
@@ -152,7 +152,7 @@ Antrasis sakinys deleguoja verslo liudijimo išdavimo tvarką Vyriausybei. Nenuo
 
 27 straipsnis yra metinio deklaravimo nuostata – juo baigiamas mokestinis laikotarpis ir tikslinama gyventojo mokestinė prievolė.
 
-1 dalis nustato bendrą pareigą: nuolatinis gyventojas iki kitų metų gegužės 1 dienos pats ar per įgaliotą asmenį pateikia metinę deklaraciją ir joje deklaruoja visas praėjusio laikotarpio pajamas bei apskaičiuotą mokestį. 2 dalis numato teisę deklaracijos neteikti, jei kartu tenkinamos dvi sąlygos: gyventojas nenori atimti 21 straipsnio išlaidų ir gavo tik A klasės su darbo santykiais susijusių pajamų, dėl kurių nereikia perskaičiuoti mokesčio pagal 6 straipsnio 1¹ ir 1² dalis (šaltinyje „11 ir 12“) ir NPD pagal 20 straipsnį; prie jų prilyginamos centrinio mokesčio administratoriaus sąraše nurodytos neapmokestinamosios pajamos.
+1 dalis nustato bendrą pareigą: nuolatinis gyventojas iki kitų metų gegužės 1 dienos pats ar per įgaliotą asmenį pateikia metinę deklaraciją ir joje deklaruoja visas praėjusio laikotarpio pajamas bei apskaičiuotą mokestį. 2 dalis numato teisę deklaracijos neteikti, jei kartu tenkinamos dvi sąlygos: gyventojas nenori atimti 21 straipsnio išlaidų ir gavo tik A klasės su darbo santykiais susijusių pajamų, dėl kurių nereikia perskaičiuoti mokesčio pagal 6 straipsnio 1¹ ir 1² dalis ir NPD pagal 20 straipsnį; prie jų prilyginamos centrinio mokesčio administratoriaus sąraše nurodytos neapmokestinamosios pajamos.
 
 3 dalis nustato atvejus, kai deklaracija privaloma nepaisant 2 dalies: verslo liudijimo turėtojai ir įregistravę individualią veiklą (net negavę pajamų), asmenys, kurie turi deklaruoti pajamas pagal Rinkimų kodekso 110 straipsnio 4 ir 6 dalis (aukų teikėjai), ir asmenys, turintys deklaruoti turtą pagal Gyventojų turto deklaravimo įstatymą (su išimtimis), – pastarųjų terminai derinami su atitinkamų įstatymų terminais. 4 dalis deleguoja formas ir tvarką centriniam mokesčio administratoriui.
 
@@ -380,7 +380,7 @@ Už šių pareigų pažeidimą taikomi 36 straipsnio 2 dalyje nurodyti kitų įs
 >
 > 6. Neteko galios nuo 2017-05-31.
 >
-> 7. Per investicinę sąskaitą gautų pajamų dvigubas apmokestinimas panaikinamas leidžiant atimti užsienio valstybėje sumokėto pajamų mokesčio ar jam tapataus mokesčio sumą šio Įstatymo 121 straipsnyje nustatyta tvarka.
+> 7. Per investicinę sąskaitą gautų pajamų dvigubas apmokestinimas panaikinamas leidžiant atimti užsienio valstybėje sumokėto pajamų mokesčio ar jam tapataus mokesčio sumą šio Įstatymo 12¹ straipsnyje nustatyta tvarka.
 
 *e-TAR redakcinė pastaba:* [1 d.] TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
